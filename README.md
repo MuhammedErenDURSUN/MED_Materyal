@@ -21,3 +21,7 @@
 # Galeri
 
 ![](image.png)
+
+# Video
+
+[![Watch the video](med.png)](http://youtu.be/f7XfCiydmgU)
