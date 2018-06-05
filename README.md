@@ -11,10 +11,10 @@
 - PHP, MySQL
 
 ####  Projenin Amacı
-- Fatih Projesi yazılım alt yapısına destek ,
-- EBA nın kısıtlı bir erişim ve kullanım sağladığı,
-- Eğitimciler ve Öğrenciler arasında köprü,
-- Eğitimciler arasında içerik paylaşımı,
+- Fatih Projesi yazılım alt yapısına destek sağlamak,
+- EBA'nın kısıtlı bir erişim sağladığı,
+- Eğitimciler ve Öğrenciler arasında köprü oluşturmak,
+- Eğitimciler arasında içerik paylaşımı yapmaları,
 - Eğitimsel içerikleri materyal haline getirmek,
    için geliştirildi.
 
